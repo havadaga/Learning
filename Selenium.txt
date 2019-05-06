@@ -1,0 +1,11 @@
+Core Java tutorials for begineers - 30 [Interview question]
+Selenium web tutorials - 40 to 70 
+X-Path
+TestNG 
+POM  
+Selenium Grid Tutorials
+Cucumber
+Maven
+Git
+Protractor 
+
